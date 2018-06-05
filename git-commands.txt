@@ -1,5 +1,5 @@
 HELLO!! THIS IS MY FIRST GIT FILE.
-THE COMMANDS TO USED WHILE MAKING REPOSITORIES ARE IN THE F/W SEQUENCE:
+THE COMMANDS USED WHILE MAKING REPOSITORIES ARE IN THE F/W SEQUENCE:
 1. cd desktop: Direct to the preferred directory
 2. cd mkdir hello-git: Create a folder named "hello-git"
 3. cd hello-git: Access hello-git
