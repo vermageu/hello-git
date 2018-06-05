@@ -5,7 +5,7 @@ THE COMMANDS USED WHILE MAKING REPOSITORIES ARE IN THE F/W SEQUENCE:
 3. cd hello-git: Access hello-git
 4. git init: intitialize the git repository
 5. nano git-commands.txt: create a text file named git-commands and 
-write all the procedures in it( I am using the nanao as default editor)
+write all the procedures in it( I am using the nano as default editor)
 6. git add.
 7. git commit -m "my firs git commit": It tries to commit the changes
 8. Now we have to link our git environment with github. So,
